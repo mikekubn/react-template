@@ -31,5 +31,6 @@
         }
     },
     "rules": {
+        "no-console": "warn"
     }
 }
